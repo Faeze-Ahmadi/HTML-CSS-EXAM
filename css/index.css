@@ -66,3 +66,48 @@ html {
     height: 6rem;
     width: 6rem;
 }
+
+.main-sec-of-peyment {
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: 47rem;
+}
+
+.vacation-img {
+    width: 55rem;
+    height: 40rem;
+}
+
+.peyment-text {
+    margin-top: 3rem;
+    margin-left: 57rem;
+
+
+}
+
+.h2-topic-peyment {
+    color: var(--blue-color);
+    font-size: 3rem;
+}
+
+.line {
+    margin-top: 3rem;
+    margin-left: 53rem;
+    border: 2px solid var(--blue-color);
+    border-color: var(--blue-color);
+    width: 40rem;
+}
+
+.tank-you-text {
+    margin-top: 3rem;
+    margin-left: 46rem;
+    width: 55rem;
+    height: 7rem;
+}
+
+.tankyou-text {
+    color: var(--blue-color);
+    font-size: 3rem;
+    text-align: center;
+}
