@@ -1,0 +1,12 @@
+:root {
+    --blue-color: #239BD8;
+    --white-color: #FFFFFF;
+    --dark-gray-color: #434343;
+    --gray-color: #7C8DB0;
+    --light-gray-color: #E4E4E4;
+    --font-size: 62.5%;
+}
+
+html {
+    font-size: var(--font-size);
+}
