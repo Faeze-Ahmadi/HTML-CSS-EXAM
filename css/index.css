@@ -26,6 +26,7 @@ html {
 .travel-icon {
     gap: 1rem;
     padding-top: 1.6rem;
+    margin-left: 8rem;
 }
 
 .travel-text {
@@ -36,7 +37,7 @@ html {
 .search-box {
    gap: 30rem;
    margin-top: 1.5rem;
-   margin-left: 27rem;
+   margin-left: 23rem;
 }
 
 .search-text {
@@ -65,6 +66,10 @@ html {
     object-fit: cover;
     height: 6rem;
     width: 6rem;
+}
+
+.side-bar {
+    margin-right: 4rem;
 }
 
 .main-sec-of-peyment {
@@ -110,4 +115,11 @@ html {
     color: var(--blue-color);
     font-size: 3rem;
     text-align: center;
+}
+
+.recommend-text {
+    font-size: 2.7rem;
+    color: var(--dark-gray-color);
+    margin-top: 12rem;
+    margin-left: 8rem;
 }
