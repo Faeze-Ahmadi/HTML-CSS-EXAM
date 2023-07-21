@@ -3,7 +3,7 @@
     --white-color: #FFFFFF;
     --dark-gray-color: #434343;
     --gray-color: #7C8DB0;
-    --light-gray-color: #E4E4E4;
+    --light-gray-color: #dadada;
     --green: #22C3A6;
     --font-size: 62.5%;
 }
@@ -147,4 +147,22 @@ html {
     font-size: 1.3rem;
     color: var(--dark-gray-color);
     opacity: 80%;
+}
+
+.last-line {
+    text-align: center;
+    margin-top: 30rem;
+    margin-left: 1.8rem;
+    border: 0.2px solid var(--light-gray-color);
+    width: 148rem;
+    opacity: 70%;
+}
+
+.last-text-0f-info-site {
+    justify-content: center;
+    text-align: center;
+    color: var(--light-gray-color);
+    font-size: 1.7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
